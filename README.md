@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dhivyasangavi18@gmail.com** and <a href="https://dhivya2022.github.io/"> <b> Dhivya Github Page</b></a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16jZ2HjDulzBAp9f00uVlpbBvAZIvIdPL/view?usp=sharing"><b>Dhivya_SoftwareTestEngineer</b></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1asosR94V7HoXrtlppD3-OHy_nHzjNSc7/view?usp=sharing"><b>Dhivya_SoftwareTestEngineer</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/dhivyatautomation/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
