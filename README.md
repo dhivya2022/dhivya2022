@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhivya2022" alt="dhivya2022" /></a> </p>
 
-- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/cypress-tutorial/">
-	<b> Cypress -Modern Automation Testing from Scratch + Frameworks </b> </a>
-	 and, working on 
-	<a href= "https://drive.google.com/drive/folders/1tne9pZjgWvfrS0l9tVHs6k1jnQHpTLoA?usp=sharing">
+- 🌱 I’m currently learning <a href ="https://www.udemy.com/course/playwright-tutorials-automation-testing/">
+	<b> Playwright -Modern Automation Testing from Scratch + Frameworks </b> </a>
+	 and, Please Click Here to view my documents 
+	<a href= "https://drive.google.com/drive/folders/1J5vEf3f6E-Mj57LbRLidu17hYuefXaVM?usp=sharing">
 	<b> Documents on Technical topics </b></a>
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/dhivya2022"><b> Test Automation Frameworks Development (Web and API)</b></a>
